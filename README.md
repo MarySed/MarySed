@@ -1,4 +1,5 @@
-### Hi there 👋
+![giphy](https://user-images.githubusercontent.com/37863665/117806801-c16dc580-b295-11eb-9c39-57a975d02a97.gif)
+
 
 <!--
 **MarySed/MarySed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
